@@ -1,5 +1,5 @@
 import React from 'react';
-import Pregunta from './components/pregunta'
+import Pregunta from './components/Pregunta'
 
 
 function App() {
